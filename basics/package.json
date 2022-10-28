@@ -1,0 +1,12 @@
+{
+  "name": "node-express-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Async-fs-module.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
