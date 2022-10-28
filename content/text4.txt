@@ -1,0 +1,1 @@
+Here is the result : This is first text file, inside content folder, This is second text file, inside content folder
